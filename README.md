@@ -30,7 +30,6 @@ Profile Management: Users can update their profile information, ensuring their d
 The project follows a typical MERN stack structure, with the following key components:
 
 Backend: Built with Express and Mongoose, handling routes, controllers, and database interactions.
-Frontend: Developed with React, providing a responsive user interface for interacting with the blog platform.
 Database: MongoDB serves as the backend database, storing user information, posts, and related data.
 ## 📝 Usage Instructions
 To use the platform, follow these steps:
